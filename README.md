@@ -18,17 +18,13 @@
 
 </br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
+
 
 ### :woman_technologist: About Me :
 Hello! I am Rakibul Hassan, a computer geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who enjoys creating, developing, and collaborating on projects.
 
 - :telescope: I’m working as a Software Engineer working in the automotive industry.
-
 - :seedling: Exploring Machine Learning and Embedded Systems.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rakibul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rhassan1/)
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -64,4 +60,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30%" height=auto/>
+</div>
+
 -->
