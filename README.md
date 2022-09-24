@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://rakibulll.github.io/">
-    <img src="https://img.shields.io/badge/React-purple?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.facebook.com/Rakibulll">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -19,17 +19,17 @@
 </br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working in the automotive industry.
+Hello! I am Rakibul Hassan, a computer geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who enjoys creating, developing, and collaborating on projects.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer working in the automotive industry.
 
-- :seedling: Exploring Machine Learning and Embedded Software.
+- :seedling: Exploring Machine Learning and Embedded Systems.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rakibul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rhassan1/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
