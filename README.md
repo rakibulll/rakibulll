@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.instagram.com/rakibulwho/">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge"/>
   </a>
 </div> 
 </br>
