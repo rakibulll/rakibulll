@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="20%"/>
 </div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rhassan1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,9 +14,16 @@
 </div> 
 </br>
 
+## :woman_technologist: About Me :
+Hello! I am Rakibul Hassan, a computer geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who enjoys creating, developing, and collaborating on projects.
 
-
-### :hammer_and_wrench: Languages and Tools :
+  :telescope: I’m working as a Software Engineer working in the automotive industry <img src="https://media.giphy.com/media/j2ReQUVKHsKaYBClWn/giphy.gif" width="80">
+</br>
+  :seedling: Exploring Machine Learning<img src="https://media.giphy.com/media/i3oBEvcPlr6kEwxHXI/giphy.gif" width="40">and Embedded Systems
+</br>
+  :zap: In my free time, I play the drums <img src="https://media.giphy.com/media/Ln92FakG5zTZJXQBYl/giphy.gif" width="30">
+</br>
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -47,7 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" **alt="jquery" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rakibulll&theme=blueberry_duo&background=transparent&hide_border=true)](https://git.io/streak-stats)
 
