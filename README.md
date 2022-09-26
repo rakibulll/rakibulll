@@ -19,7 +19,7 @@ Hello! I am Rakibul Hassan, a computer geek <img src="https://media.giphy.com/me
 
   :telescope: I’m currently a Software Engineer Co-op working in the Automotive industry <img src="https://media.giphy.com/media/j2ReQUVKHsKaYBClWn/giphy.gif" width="80">
 </br>
-  :seedling: Exploring Machine Learning<img src="https://media.giphy.com/media/i3oBEvcPlr6kEwxHXI/giphy.gif" width="45">and Embedded Systems
+  :seedling: Exploring Machine Learning<img src="https://media.giphy.com/media/i3oBEvcPlr6kEwxHXI/giphy.gif" width="50">and Embedded Systems <img src="https://media.giphy.com/media/Fhzx7PSWsb1hRXYg0q/giphy.gif" width="25">
 </br>
   :zap: In my free time, I play the drums <img src="https://media.giphy.com/media/Ln92FakG5zTZJXQBYl/giphy.gif" width="30">
 </br>
