@@ -17,9 +17,9 @@
 ## :woman_technologist: About Me :
 Hello! I am Rakibul Hassan, a computer geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who enjoys creating, developing, and collaborating on projects.
 
-  :telescope: I’m working as a Software Engineer working in the automotive industry <img src="https://media.giphy.com/media/j2ReQUVKHsKaYBClWn/giphy.gif" width="80">
+  :telescope: I’m currently a Software Engineer Co-op working in the Automotive industry <img src="https://media.giphy.com/media/j2ReQUVKHsKaYBClWn/giphy.gif" width="80">
 </br>
-  :seedling: Exploring Machine Learning<img src="https://media.giphy.com/media/i3oBEvcPlr6kEwxHXI/giphy.gif" width="40">and Embedded Systems
+  :seedling: Exploring Machine Learning<img src="https://media.giphy.com/media/i3oBEvcPlr6kEwxHXI/giphy.gif" width="45">and Embedded Systems
 </br>
   :zap: In my free time, I play the drums <img src="https://media.giphy.com/media/Ln92FakG5zTZJXQBYl/giphy.gif" width="30">
 </br>
