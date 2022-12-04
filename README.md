@@ -54,9 +54,10 @@ Hello! I am Rakibul Hassan, a computer geek <img src="https://media.giphy.com/me
 </div>
 
 ## :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rakibulll&theme=blueberry_duo&background=transparent&hide_border=true)](https://git.io/streak-stats)
-
+<div id="stats" align="left">
+  <a target = "_blank" href = "https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=rakibulll&theme=blueberry_duo&background=transparent&hide_border=true"/>
+</div>
 
 
 <!--
