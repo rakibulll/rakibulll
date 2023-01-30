@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge"/>
   </a>
 </div> 
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibulll&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulll" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibulll" alt="rakibulll" /></a> </p> -->
 </br>
 
 ## :woman_technologist: About Me :
