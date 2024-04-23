@@ -15,14 +15,16 @@
 
 </br>
 
-## :woman_technologist: About Me :
+## :man_technologist: About Me :
 Hello! I am Rakibul Hassan, a computer geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who enjoys creating, developing, and collaborating on projects.
 
-  :telescope: I’m currently a Software Engineer Co-op working in the Automotive industry <img src="https://media.giphy.com/media/j2ReQUVKHsKaYBClWn/giphy.gif" width="80">
+  :telescope: I’m currently a Software Engineer working in the Automotive industry :car:
 </br>
-  :seedling: Exploring Machine Learning<img src="https://media.giphy.com/media/i3oBEvcPlr6kEwxHXI/giphy.gif" width="50">and Embedded Systems <img src="https://media.giphy.com/media/Fhzx7PSWsb1hRXYg0q/giphy.gif" width="25">
+  :monocle_face: Experienced in Full-Stack Application Development :atom_symbol: and Data Analysis & Visualization :bar_chart:
+<br/>
+  :seedling: Exploring Machine Learning :brain: and Embedded Systems :gear:
 </br>
-  :zap: In my free time, I play the drums <img src="https://media.giphy.com/media/Ln92FakG5zTZJXQBYl/giphy.gif" width="30">
+  :zap: In my free time, I play the drums :drum:
 </br>
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -41,6 +43,7 @@ Hello! I am Rakibul Hassan, a computer geek <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;    </br>
     </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android"  alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -51,7 +54,6 @@ Hello! I am Rakibul Hassan, a computer geek <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" **alt="jquery" width="40" height="40"/>
 </div>
 
 ## :fire: My Stats :
