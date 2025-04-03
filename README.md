@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://rakibulll.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.instagram.com/rakibulwho/">
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=rainbow" alt="Instagram Badge"/>
